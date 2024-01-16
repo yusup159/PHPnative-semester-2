@@ -1,0 +1,87 @@
+
+* {
+    font-family: Poppins;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.navbar .nav {
+    padding-left: 32px;
+}
+
+.nav-item {
+    font-size: 16px;
+}
+
+.active {
+    font-weight: 600;
+}
+
+.button-daftar {
+    background-color: #393DE1;
+    color: whitesmoke;
+    font-weight: 600;
+    width: 100px;
+    height: 48px;
+    border: none;
+    border-radius: 65px;
+    margin-left: 16px;
+}
+.text-hero h1 {
+    font-size: 64px;
+    font-weight: 700;
+    margin-top: 120px;
+    line-height: 70px;
+}
+.text-hero h2 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 120px;
+    line-height: 70px;
+}
+
+.text-hero h1 span {
+    color: #393DE1;
+}
+
+.text-hero p {
+    font-size: 20px;
+    color: #A5A9B6;
+    margin-top: 16px;
+}
+
+.text-hero a button {
+    background-color: #393DE1;
+    font-weight: 700;
+    color: #ffffff;
+    border: none;
+    border-radius: 100px;
+    height: 56px;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-right: 16px;
+}
+
+.text-hero .cta {
+    margin-top: 40px;
+}
+
+.text-hero a {
+    text-decoration: none;
+    color: #393DE1;
+}
+
+.foto img {
+    margin-left: 10px;
+    height: 480px;
+    margin-top: 80px;
+    margin-left: 40px;
+}
